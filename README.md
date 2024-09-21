@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Análise e Desenvolvimento de Sistemas 2/4
+- 🌱 Análise e Desenvolvimento de Sistemas 4/6
 
 <div align="center">
   <a href="https://github.com/jonathan-barreto">
